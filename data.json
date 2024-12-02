@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Adobe Photoshop",
+      "year": 1988
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Office",
+      "year": 1989
+    },
+    {
+      "id": 3,
+      "name": "Adobe Flash Player",
+      "year": 1995
+    },
+    {
+      "id": 4,
+      "name": "LibreOffice",
+      "year": 2011
+    }
+  ]
