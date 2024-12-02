@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+
+  h1-author {
+    margin: 1cm 0;
+  }
+
+  .team-list {
+    display: inline-block;
+    text-align: left;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fff;
+    font-weight: bold;
+  }
+
+  .team-list ol {
+    list-style-type: upper-alpha;
+  }
+
+  .links {
+    margin: 20px;
+  }
+
+  .link {
+    display: block;
+    margin: 10px 0;
+    color: #3498db;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s;
+  }
+
+  .link:hover {
+    color: #f39c12;
+  }
