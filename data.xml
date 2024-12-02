@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item id="1">
+    <name>Windows</name>
+    <description>Microsoft Windows is a product line of proprietary graphical operating systems developed and marketed by Microsoft.</description>
+    <year>1985</year>
+  </item>
+  <item id="2">
+    <name>Linux</name>
+    <description>Linux is a family of open-source Unix-like operating systems based on the Linux kernel,[16] an operating system kernel first released on September 17, 1991, by Linus Torvalds.</description>
+    <year>1991</year>
+  </item>
+  <item id="3">
+    <name>MacOs</name>
+    <description>macOS, originally Mac OS X, previously shortened as OS X, is an operating system developed and marketed by Apple</description>
+    <price>2001</price>
+  </item>
+  <item id="4">
+    <name>Chrome OS</name>
+    <description>ChromeOS, sometimes styled as chromeOS and formerly styled as Chrome OS, is a Linux distribution developed and designed by Google.</description>
+    <price>2011</price>
+  </item>
+</items>
