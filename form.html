@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Software Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <h1>Computer Software Form</h1>
+    <form>
+        <!-- First Edit Field -->
+        <label for="software-name">Software Name:</label><br>
+        <input type="text" id="software-name" name="software-name" placeholder="Enter software name"><br><br>
+
+        <!-- Second Edit Field -->
+        <label for="developer-name">Developer Name:</label><br>
+        <input type="text" id="developer-name" name="developer-name" placeholder="Enter developer name"><br><br>
+
+        <!-- First Check Box -->
+        <label>
+            <input type="checkbox" id="open-source" name="open-source">
+            Is it open source?
+        </label><br><br>
+
+        <!-- Second Check Box -->
+        <label>
+            <input type="checkbox" id="subscription" name="subscription">
+            Requires subscription?
+        </label><br><br>
+
+        <!-- Buttons -->
+        <button type="submit" class="btn save">Save</button><br><br>
+        <button type="button" class="btn cancel">Cancel</button>
+    </form>
+</body>
+</html>

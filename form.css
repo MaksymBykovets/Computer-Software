@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 1cm;
+    font-size: 2em;
+}
+
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    background-color: #77b7fc; /* Blue background */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 1cm; 
+}
+
+label {
+    font-weight: bold;
+}
+
+
+.btn {
+    width: 120px;
+    padding: 10px;
+    color: rgb(247, 31, 31);
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+
+
+.btn:hover {
+    background-color: #ff9800; /* Slightly darker orange on hover */
+}
+
+.save {
+    margin-bottom: 1cm; /* Distance between Save and Cancel buttons */
+}
